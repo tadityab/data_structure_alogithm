@@ -4,7 +4,7 @@
 - Elements are allocated contiguous memory, allowing for *constant-time access*.
 - Each element has a unique index number.
 
-![img.png](img.png)
+![img.png](../img.png)
 
 Based on above image, we can understand that array is to represent many instance in one variable. 
 
