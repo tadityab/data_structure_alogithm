@@ -1,6 +1,10 @@
 import array
 
 if __name__ == '__main__':
+    # Here
+    # Time complexity : O(N) in worse case scenarios
+    # Space complexity: O(1)
+
     # inserting element at the starting of the array
     my_array = array.array('i',[1,2,3,4,5])
     print(my_array)
@@ -26,3 +30,5 @@ if __name__ == '__main__':
 
     my_array.insert(90,7)
     print(my_array)
+
+
