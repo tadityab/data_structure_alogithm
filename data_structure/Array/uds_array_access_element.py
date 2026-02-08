@@ -5,10 +5,8 @@ if __name__ == '__main__':
     # Time Complexity    :  O(1)
     # Space Complexity   :  O(1)
 
-
     arr1 = array('i', [1, 2, 3, 4, 5, 6])
     print(len(arr1))
-
 
     def access_element(array, index):
         if index >= len(array):                                # O(1)    O(1) + O(1) + O(1) = O(1)
