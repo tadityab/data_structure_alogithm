@@ -21,4 +21,14 @@ Based on above image, we can understand that array is to represent many instance
 
 Refer "array_operations.py" file
 
+**One Dimensional Array Time and Space Complexity**
 
+| operations                     | Time complexity | space complexity |
+|--------------------------------|-----------------|------------------|
+| Creating an empty array        | O(1)            | O(1)             |
+| creating an array with element | O(n)            | O(n)             |
+| Inserting value in an array    | O(n)            | O(1)             |
+| Traversing a Given Array       | O(n)            | O(1)             |
+| Access a given cell            | O(1)            | O(1)             |
+| Seaching a given value         | O(n)            | O(1)             |
+| Deleting a given value         | O(n)            | O(1)             |
